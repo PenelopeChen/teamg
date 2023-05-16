@@ -25,8 +25,8 @@ export default{
   box-sizing: border-box;
 }
 
-*:not(#app):not(header):not(body):not(nav):not(nav a):not(nav a.router-link-exact-active):not(h1):not(h2):not(p):not(form):not(select):not(input):not(button):not(div):not(label):not(.redirects):not(.playerdata):not(table):not(thead):not(tr):not(th):not(tbody):not(ul):not(li){
-  background-image: url(https://cdn.dribbble.com/users/160641/screenshots/15773953/pingpong_4x.gif?compress=1&resize=400x300); 
+body {
+  background-image: url(https://cdn.dribbble.com/users/160641/screenshots/15773953/pingpong_4x.gif?compress=1&resize=400x300);
 }
 
 #app {
